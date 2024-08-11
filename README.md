@@ -2,9 +2,9 @@
 
 🍣Sushi | Multi-Tool Template in Batch
 
-Password(at entry): sushi (can be modified from batch file) 
+# Password(at entry): sushi (can be modified from batch file) 
 
-## Sushi is a Multi-Tool Template with Source Code for people who need template for their batch menu! 
+### Sushi is a Multi-Tool Template with Source Code for people who need template for their batch menu! 
 
 
 ## Usefull links: 
